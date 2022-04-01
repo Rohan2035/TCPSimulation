@@ -1,0 +1,16 @@
+﻿  SourceCode.cpp
+C:\Users\rohan_wnlz3pl\Desktop\CG Project\CG_Project\SourceCode.cpp(23,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\rohan_wnlz3pl\Desktop\CG Project\CG_Project\SourceCode.cpp(26,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\rohan_wnlz3pl\Desktop\CG Project\CG_Project\SourceCode.cpp(32,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\rohan_wnlz3pl\Desktop\CG Project\CG_Project\SourceCode.cpp(46,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\rohan_wnlz3pl\Desktop\CG Project\CG_Project\SourceCode.cpp(64,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\rohan_wnlz3pl\Desktop\CG Project\CG_Project\SourceCode.cpp(72,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\rohan_wnlz3pl\Desktop\CG Project\CG_Project\SourceCode.cpp(80,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\rohan_wnlz3pl\Desktop\CG Project\CG_Project\SourceCode.cpp(88,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\rohan_wnlz3pl\Desktop\CG Project\CG_Project\SourceCode.cpp(120,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\rohan_wnlz3pl\Desktop\CG Project\CG_Project\SourceCode.cpp(156,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\rohan_wnlz3pl\Desktop\CG Project\CG_Project\SourceCode.cpp(167,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\rohan_wnlz3pl\Desktop\CG Project\CG_Project\SourceCode.cpp(178,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\rohan_wnlz3pl\Desktop\CG Project\CG_Project\SourceCode.cpp(190,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\rohan_wnlz3pl\Desktop\CG Project\CG_Project\SourceCode.cpp(201,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  CG_Project.vcxproj -> C:\Users\rohan_wnlz3pl\Desktop\CG Project\CG_Project\Debug\CG_Project.exe
